@@ -1,5 +1,1 @@
-// $('.navbar-toggler').click(function() {
-//     this.collapse();
-// })
-
-$('.collapse').collapse();
+$('.collapse').collapse('hide');
